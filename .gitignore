@@ -1,0 +1,36 @@
+```
+# Visual Basic files
+*.vbp
+*.bas
+
+# Compiled executables and build artifacts
+*.exe
+*.dll
+*.ocx
+*.tlb
+*.lib
+*.obj
+*.frm
+*.ctl
+*.pag
+
+# Dependencies and packages
+*.vbg
+*.vbw
+*.vbs
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+*.~*
+
+# Environment and user-specific files
+*.use
+*.vbd
+*.vbm
+
+# Backup files
+*.bak
+*.~*
+```
