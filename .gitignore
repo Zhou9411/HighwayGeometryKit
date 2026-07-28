@@ -1,38 +1,36 @@
 ```
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# Visual Basic files
+*.vbp
+*.bas
 
-# Dependencies
-venv/
-.venv/
-.env
-.env.local
-*.env.*
+# Compiled executables and build artifacts
+*.exe
+*.dll
+*.ocx
+*.tlb
+*.lib
+*.obj
+*.frm
+*.ctl
+*.pag
 
-# Logs
+# Dependencies and packages
+*.vbg
+*.vbw
+*.vbs
+
+# Logs and temp files
 *.log
-
-# Editor/IDE
-.vscode/
-.idea/
-*.swp
-*.swo
 *.tmp
+*.bak
+*.~*
 
-# Build/dist
-dist/
-build/
-*.egg-info/
+# Environment and user-specific files
+*.use
+*.vbd
+*.vbm
 
-# Coverage
-.coverage
-htmlcov/
-coverage/
-
-# Testing
-.pytest_cache/
-.mypy_cache/
+# Backup files
+*.bak
+*.~*
 ```
